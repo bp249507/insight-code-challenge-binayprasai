@@ -25,39 +25,4 @@ I am not able to put output files for the stream_payment.csv provided in the dro
 My Repo Structure    
 
 README.md  
-├── run.sh  
-├── src/antifraud.py
-│........└── antifraud.py  
-├── #paymo_input too big to put here 
-│    
-├── #paymo_output too big to put here  
-└── insight_testsuite 
-	├── results.txt  
-	├── run_tests.sh 
-	└── tests/test-1-paymo-trans 
-	│	├── paymo_input 
-	│	│	└── batch_payment.txt 
-	│	│	└── stream_payment.txt 
-	│	└── paymo_output 
-	│		└── output1.txt 
-	│		└── output2.txt 
-	│		└── output3.txt  
-	└── my-test 
-	│	├── paymo_input 
-	│	│	└── batch_payment.txt 
-	│	│	└── stream_payment.txt 
-	│	└── paymo_output 
-	│	│	└── output1.txt 
-	│	│	└── output2.txt 
-	│	│	└── output3.txt 
-	│	└── src 
-	│	│	└── antifraud.py 
-	│	└── run.sh 
-	└── output3.txt 
- 
-
-
-
-
-
-
+<img src="repo.png" width="300">
