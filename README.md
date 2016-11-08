@@ -27,33 +27,33 @@ My Repo Structure<br>
 ├── README.md <br>
 ├── run.sh<br>
 ├── src<br>
-│     └── antifraud.py<br>
+│└── antifraud.py<br>
 ├── #paymo_input too big to put here<br>
 │   <br>
 ├── #paymo_output too big to put here <br>
 └── insight_testsuite<br>
-       ├── results.txt<br>
-       ├── run_tests.sh<br>
-       └── tests/test-1-paymo-trans<br>
-       │    ├── paymo_input<br>
-       │    │   └── batch_payment.txt<br>
-       │    │   └── stream_payment.txt<br>
-       │    └── paymo_output<br>
-       │        └── output1.txt<br>
-       │        └── output2.txt<br>
-       │        └── output3.txt<br>
-       └── my-test<br>
-       │     ├── paymo_input<br>
-       │     │   └── batch_payment.txt<br>
-       │     │   └── stream_payment.txt<br>
-       │     └── paymo_output<br>
-       │     │   └── output1.txt<br>
-       │     │   └── output2.txt<br>
-       │     │   └── output3.txt<br>
-       │     └── src<br>
-       │     │   └── antifraud.py<br>
-       │     └── run.sh<br>
-       └── output3.txt<br>
+&nbsp;├── results.txt<br>
+	├── run_tests.sh<br>
+	└── tests/test-1-paymo-trans<br>
+	│	├── paymo_input<br>
+	│	│	└── batch_payment.txt<br>
+	│	│	└── stream_payment.txt<br>
+	│	└── paymo_output<br>
+	│		└── output1.txt<br>
+	│		└── output2.txt<br>
+	│		└── output3.txt<br>
+	└── my-test<br>
+	│	├── paymo_input<br>
+	│	│	└── batch_payment.txt<br>
+	│	│	└── stream_payment.txt<br>
+	│	└── paymo_output<br>
+	│	│	└── output1.txt<br>
+	│	│	└── output2.txt<br>
+	│	│	└── output3.txt<br>
+	│	└── src<br>
+	│	│	└── antifraud.py<br>
+	│	└── run.sh<br>
+	└── output3.txt<br>
 
 
 
