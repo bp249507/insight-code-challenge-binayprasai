@@ -23,7 +23,7 @@ Batch_payment.csv has some lines just text and should be taken care of.
 I am not able to put output files for the stream_payment.csv provided in the dropbox link. Each has 3 million lines.  
 
 My Repo Structure    
-<img src="repo.png" width="350">
  
+
 
  
