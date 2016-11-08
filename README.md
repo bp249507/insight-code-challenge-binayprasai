@@ -25,5 +25,5 @@ I am not able to put output files for the stream_payment.csv provided in the dro
 My Repo Structure    
 
  
-<img src="repo.png" width="350">
+
  
