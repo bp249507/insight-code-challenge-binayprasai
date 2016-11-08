@@ -1,18 +1,18 @@
 # insight-code-challenge-binayprasai
 
-<strong>Algorithms Used</strong> <br>
-Feature 1 <br>
+# Algorithms Used
+## Feature 1
 This feature checks if A and B are directly related. 
 This is done by checking if B is in the list of A's transaction or A in B's transaction.
 
-Feature 2 <br>
+## Feature 2 
 This one checks if B is second degree friend of A i.e. B is a neighbor of at least one of A's neighors. 
 Quicker algorithm will be finding A's first degree friends say A1 and B's first degree friends (B1) and check if there are common friends in 
 two friends lists A1 and B1.<br>
 A---[A1 B1]----B<br>
 [   ] means checking intersection (common) ids in [A1 and B1]
 
-Feature 3 <br>
+## Feature 3 
 This one allows up to four degree of friendship. Feature 1 and Feature 2 are already included here. 
 Now to check third and fourth degree of friendship, we find 2nd degree friend of A say A2, and same for B, say B2. <br>
 A---A1---[A2 B1]---B ---> third degree friend<br>
@@ -32,7 +32,7 @@ My Repo Structure<br>
 │   <br>
 ├── #paymo_output too big to put here <br>
 └── insight_testsuite<br>
-	├── results.txt<br>
+?ts=4	├── results.txt<br>
 	├── run_tests.sh<br>
 	└── tests/test-1-paymo-trans<br>
 	│	├── paymo_input<br>
@@ -55,7 +55,7 @@ My Repo Structure<br>
 	│	└── run.sh<br>
 	└── output3.txt<br>
 
-
++##   le
 
 
 
